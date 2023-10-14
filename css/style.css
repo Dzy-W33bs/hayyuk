@@ -11,7 +11,7 @@
 
 
 .navbar {
-    background-color: yellow;
+    background-color: maroon;
 }
 
 
@@ -181,6 +181,7 @@ section {
     height: 0;
     overflow: hidden;
     text-align: center;
+    padding-top: 50px;
 }
 
 .overlay:target {
@@ -251,7 +252,7 @@ section {
     /* text-indent: -99999px; */
     position: absolute;
     bottom: 20px;
-    margin-left: -55px;
+    margin-left: -30px;
     transform: translate(100px, 0);
     opacity: 0;
 }
@@ -277,7 +278,7 @@ section {
     background-size: cover;
     position: absolute;
     bottom: 20px;
-    margin-left: 15px;
+    margin-left: -10px;
     opacity: 0;
     transform: translate(-100px, 0);
 }
