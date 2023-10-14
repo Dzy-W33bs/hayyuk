@@ -181,7 +181,7 @@ section {
     height: 0;
     overflow: hidden;
     text-align: center;
-    padding-top: 50px;
+    padding-top: 80px;
 }
 
 .overlay:target {
@@ -243,6 +243,7 @@ section {
 }
 
 .overlay .prev {
+    z-index: 999999;
     display: inline-block;
     font-size: 40px;
     width: 40px;
@@ -270,6 +271,7 @@ section {
     transition: 0;
 }
 .overlay .next {
+    z-index: 99999;
     display: inline-block;
     font-size: 40px;
     width: 40px;
