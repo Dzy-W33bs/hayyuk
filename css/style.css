@@ -11,7 +11,7 @@
 
 
 .navbar {
-    background-color: maroon;
+    background-color: white;
 }
 
 
@@ -192,7 +192,6 @@ section {
 
 .overlay img {
     width: 350px;
-    margin: auto 50px;
     box-shadow: 0 0 2px red, 
     0 0 3px red, 
     0 0 5px red, 
